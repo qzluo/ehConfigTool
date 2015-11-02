@@ -1,6 +1,9 @@
 #ifndef __GLOBALDATA_H__
 #define __GLOBALDATA_H__
 
+/*
+define global data
+*/
 class CGlobalData
 {
 public:
